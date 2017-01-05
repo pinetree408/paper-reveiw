@@ -1,10 +1,20 @@
 #Review
+## Purpose of Review
 
-####Todo
-1. Add purpose of Review
-2. Add author's info
+To apply the techniques used in this paper to generate well made korean corpus
 
 ##Sampling Representative Phrase Sets for Text Entry
+
+```
+@inproceedings{paek2011sampling,
+  title={Sampling representative phrase sets for text entry experiments: a procedure and public resource},
+  author={Paek, Tim and Hsu, Bo-June Paul},
+  booktitle={Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+  pages={2477--2480},
+  year={2011},
+  organization={ACM}
+}
+```
 
 ###ABSTRACT
 To demonstrate representativeness, they correlated the distridution of single letters in their phrase set to a relatively small corpus of Enlish prior to 1966, which may not reflect the style of text input today.
