@@ -7,3 +7,6 @@
 4. ["How in the world did i ever get into that mode?" Mode Error and Awarenesss in Supervisory Control](https://github.com/pinetree408/paper-reveiw/blob/master/how-in-the-world-did-i-ever-gt-into-that-mode.md)
 5. [Design Rules Based on Analyses of Human Error](https://github.com/pinetree408/paper-reveiw/blob/master/design-rules-based-on-analyses-of-human-error.md)
 6. [Towards a taxonomy of error-handling strategis in recognition-based multi-modal human-computer interfaces](https://github.com/pinetree408/paper-reveiw/blob/master/towards-a-taxonomy-of-error-handling-startegis-in-recognitions-based-multi-modal-human-computer-interfaces.md)
+
+### incomplete
+1 .[Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://github.com/pinetree408/paper-review/blob/master/statistical-tests-p-values-confidence-intervals-and-power-a-guide-to-misinterpretations)
