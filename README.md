@@ -9,4 +9,4 @@
 6. [Towards a taxonomy of error-handling strategis in recognition-based multi-modal human-computer interfaces](https://github.com/pinetree408/paper-reveiw/blob/master/towards-a-taxonomy-of-error-handling-startegis-in-recognitions-based-multi-modal-human-computer-interfaces.md)
 
 ### incomplete
-1 .[Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://github.com/pinetree408/paper-review/blob/master/statistical-tests-p-values-confidence-intervals-and-power-a-guide-to-misinterpretations)
+1 .[Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://github.com/pinetree408/paper-reveiw/blob/master/statistical-tests-p-values-confidence-intervals-and-power-a-guide-to-misinterpretations.md)
