@@ -7,6 +7,13 @@
 4. ["How in the world did i ever get into that mode?" Mode Error and Awarenesss in Supervisory Control](https://github.com/pinetree408/paper-reveiw/blob/master/how-in-the-world-did-i-ever-gt-into-that-mode.md)
 5. [Design Rules Based on Analyses of Human Error](https://github.com/pinetree408/paper-reveiw/blob/master/design-rules-based-on-analyses-of-human-error.md)
 6. [Towards a taxonomy of error-handling strategis in recognition-based multi-modal human-computer interfaces](https://github.com/pinetree408/paper-reveiw/blob/master/towards-a-taxonomy-of-error-handling-startegis-in-recognitions-based-multi-modal-human-computer-interfaces.md)
+7. [A comparative Study of Moded and Modeless Text Editing By Experienced Editor Users](https://github.com/pinetree408/paper-reveiw/blob/master/a-comparative-study-of-moded-and-modeless-text-editing-by-experienced-editor-users.md)
+8. [A New Statistical Approach to Chiness Pinyin Input](https://github.com/pinetree408/paper-reveiw/blob/master/a-new-statistical-approach-to-chiness-pinyin-input.md)
+9. [Class-Based n-gram models of Natural Language](https://github.com/pinetree408/paper-reveiw/blob/master/class-based-n-gram-models-of-natura-language.md)
+10. [Error Correcting Romaji-kana Conversion for Japanese Lanaguage Education](https://github.com/pinetree408/paper-reveiw/blob/master/error-correcting-romaji-kana-conversion-for-japanese-lanaguage-education.md)
+11. ["How in the world did i ever get into that mode?" Mode Error and Awarenesss in Supervisory Control](https://github.com/pinetree408/paper-reveiw/blob/master/how-in-the-world-did-i-ever-gt-into-that-mode.md)
+12. [Query Suggestion for Mobile Search: Understanding Usage Patterns](https://github.com/pinetree408/paper-reveiw/blob/master/query-suggestions-for-mobile-search-understanding-usage-patterns.md)
+13. [Sampling Representative Phrase Sets for Text Entry](https://github.com/pinetree408/paper-reveiw/blob/master/sampling-representative-phrase-sets-for-text-entry.md)
 
 ### incomplete
 1 .[Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://github.com/pinetree408/paper-reveiw/blob/master/statistical-tests-p-values-confidence-intervals-and-power-a-guide-to-misinterpretations.md)
